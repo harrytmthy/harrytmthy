@@ -16,21 +16,25 @@ Currently refining [**SafeBox**](https://github.com/harrytmthy/safebox), a blazi
 
 I've shared insights and best practices on Android development at several notable events, including:
 
-- **Droidcon Americas 2020**: *Reactive App Orchestration with StateFlow*
+- <details>
+    <summary>Droidcon Americas 2020: Reactive App Orchestration with StateFlow</summary>
+    <img src="assets/droidcon-americas.png" alt="Droidcon Americas" width="400"/>
+  </details>
 
-  <img src="assets/droidcon-americas.png" alt="Droidcon Americas" width="400"/>
+- <details>
+    <summary>Droidcon APAC 2020: Reactive App Orchestration with StateFlow</summary>
+    <img src="assets/droidcon-apac.png" alt="Droidcon APAC" width="400"/>
+  </details>
 
-- **Droidcon APAC 2020**: *Reactive App Orchestration with StateFlow*
-  
-  <img src="assets/droidcon-apac.png" alt="Droidcon APAC" width="400"/>
+- <details>
+    <summary>GDG Makassar DevFest 2021: Android Architecture Patterns & Anti-patterns</summary>
+    <img src="assets/devfest-2021.png" alt="DevFest 2021" width="400"/>
+  </details>
 
-- **GDG Makassar DevFest 2021**: *Android Architecture Patterns & Anti-patterns*
-  
-  <img src="assets/devfest-2021.png" alt="DevFest 2021" width="400"/>
-
-- **Bangkit Academy 2021**: *Building Reactive Apps*
-  
-  <img src="assets/bangkit.png" alt="Bangkit" width="400"/>
+- <details>
+    <summary>Bangkit Academy 2021: Building Reactive Apps</summary>
+    <img src="assets/bangkit.png" alt="Bangkit" width="400"/>
+  </details>
 
 💬 Always open to future speaking engagements or collaborative discussions.
 
