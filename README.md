@@ -1,18 +1,27 @@
 # Hi, I'm Harry Timothy 👋
 
-Senior Android Engineer with a deep passion for crafting secure and performant Android apps. My work centers around thoughtful architecture, meaningful optimizations, and clarity-first collaboration.
+Senior Android Engineer (8+ years). I build secure, fast, reliable Android apps with clean architecture, offline-first flows, and careful performance work.
 
-Currently refining [**SafeBox**](https://github.com/harrytmthy/safebox), a blazing-fast, memory-safe, encrypted alternative to the deprecated `EncryptedSharedPreferences`. Designed from the ground up for apps demanding peak security and performance.
+**Creator of [**SafeBox**](https://github.com/harrytmthy/safebox)**, a drop-in replacement for `EncryptedSharedPreferences` with:
+- 184× faster init, up to 50× faster reads, up to 9.25× faster writes
+- ChaCha20-Poly1305 encryption, AES-GCM-wrapped DEK
+- Memory-mapped store with the `SharedPreferences` API
+
+Docs: https://github.com/harrytmthy/safebox#readme  
+Migration guide: https://github.com/harrytmthy/safebox/blob/main/docs/MIGRATION.md
 
 ## 📦 Featured Projects
 
 - **[SafeBox](https://github.com/harrytmthy/safebox)**  
-  A high-performance encrypted key-value storage SDK featuring ChaCha20-Poly1305 encryption, memory-mapped I/O, and robust concurrency support.
+  A high-performance encrypted key-value store for Android.  
+  [![Build](https://img.shields.io/github/actions/workflow/status/harrytmthy/safebox/ci.yml?branch=main&label=build&logo=githubactions&logoColor=white&style=flat-square)](https://github.com/harrytmthy/safebox/actions)
+  [![Release](https://img.shields.io/github/v/release/harrytmthy/safebox?label=release&color=orange&style=flat-square)](https://github.com/harrytmthy/safebox/releases)
+  [![Stars](https://img.shields.io/github/stars/harrytmthy/safebox?style=flat-square)](https://github.com/harrytmthy/safebox/stargazers)
 
 - **[Sanctum](https://github.com/harrytmthy/sanctum)** *(coming soon)*  
-  A privacy-focused journaling app, emphasizing clean architecture, offline-first functionality, and secure local encryption.
+  A privacy-focused journaling app with clean architecture and secure local storage.
 
-## 🎤 Speaking Engagements
+## 🎤 Talks
 
 I've shared insights and best practices on Android development at several notable events, including:
 
@@ -40,8 +49,6 @@ I've shared insights and best practices on Android development at several notabl
   <img src="assets/bangkit.png" alt="Bangkit" width="600"/>
 </details>
 
-💬 Always open to future speaking engagements or collaborative discussions.
-
 ## 🤝 Support
 
-If my work has positively impacted your projects, consider ⭐️ starring the repo or [sponsoring me](https://github.com/sponsors/harrytmthy) to support future development.
+If my work helped you, please ⭐️ the repo or consider [sponsoring](https://github.com/sponsors/harrytmthy).
