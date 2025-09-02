@@ -7,9 +7,6 @@ Senior Android Engineer (8+ years). I build secure, fast, reliable Android apps 
 - ChaCha20-Poly1305 encryption, AES-GCM-wrapped DEK
 - Memory-mapped store with the `SharedPreferences` API
 
-Docs: https://github.com/harrytmthy/safebox#readme  
-Migration guide: https://github.com/harrytmthy/safebox/blob/main/docs/MIGRATION.md
-
 ## 📦 Featured Projects
 
 - **[SafeBox](https://github.com/harrytmthy/safebox)**  
