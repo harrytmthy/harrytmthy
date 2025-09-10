@@ -3,7 +3,7 @@
 Senior Android Engineer (8+ years). I build secure, fast, reliable Android apps with clean architecture, offline-first flows, and careful performance work.
 
 **Creator of [**SafeBox**](https://github.com/harrytmthy/safebox)**, a drop-in replacement for `EncryptedSharedPreferences` with:
-- 184× faster init, up to 50× faster reads, up to 9.25× faster writes
+- ~100× faster init and ~9× faster writes than EncryptedSharedPreferences.
 - ChaCha20-Poly1305 encryption, AES-GCM-wrapped DEK
 - Memory-mapped store with the `SharedPreferences` API
 
@@ -14,9 +14,6 @@ Senior Android Engineer (8+ years). I build secure, fast, reliable Android apps 
   [![Build](https://img.shields.io/github/actions/workflow/status/harrytmthy/safebox/ci.yml?branch=main&label=build&logo=githubactions&logoColor=white&style=flat-square)](https://github.com/harrytmthy/safebox/actions)
   [![Release](https://img.shields.io/github/v/release/harrytmthy/safebox?label=release&color=orange&style=flat-square)](https://github.com/harrytmthy/safebox/releases)
   [![Stars](https://img.shields.io/github/stars/harrytmthy/safebox?style=flat-square)](https://github.com/harrytmthy/safebox/stargazers)
-
-- **[Sanctum](https://github.com/harrytmthy/sanctum)** *(coming soon)*  
-  A privacy-focused journaling app with clean architecture and secure local storage.
 
 ## 🎤 Talks
 
