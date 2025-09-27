@@ -3,7 +3,7 @@
 Senior Android Engineer (8+ years). I build secure, fast, reliable Android apps with clean architecture, offline-first flows, and thoughtful performance work.
 
 **Creator of [**SafeBox**](https://github.com/harrytmthy/safebox)**, a drop-in replacement for `EncryptedSharedPreferences` with:
-- ~100× faster init and ~9× faster writes than EncryptedSharedPreferences.
+- ~184× faster init, ~50× faster reads, and ~9× faster writes than EncryptedSharedPreferences.
 - ChaCha20-Poly1305 encryption, AES-GCM-wrapped DEK
 - Memory-mapped store with the `SharedPreferences` API
 
