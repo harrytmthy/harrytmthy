@@ -1,8 +1,8 @@
 # Hi, I'm Harry Timothy 👋
 
-Android engineer obsessed with performance and robustness. I build secure, fast, and resilient apps with clean architecture, offline-first flows, and measurable performance gains.
+Android engineer obsessed with performance and robustness. I build secure & fast apps with clean architecture, offline-first flows, and measurable performance gains.
 
-**Creator of [**SafeBox**](https://github.com/harrytmthy/safebox)**, a modern, memory-mapped replacement for `EncryptedSharedPreferences` with ~184× faster init, ~50× faster reads, and ~9× faster writes.
+**Creator of [**SafeBox**](https://github.com/harrytmthy/safebox)**, a drop-in replacement for `EncryptedSharedPreferences`, with ~184× faster init, ~50× faster reads, and ~9× faster writes, powered by ChaCha20-Poly1305 encryption and AES-GCM-wrapped DEK.
 
 ## 📦 Featured Projects
 
