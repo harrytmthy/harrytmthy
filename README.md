@@ -12,6 +12,9 @@ Android engineer obsessed with performance and security. I build stable apps & S
   [![Release](https://img.shields.io/github/v/release/harrytmthy/safebox?label=release&color=orange&style=flat-square)](https://github.com/harrytmthy/safebox/releases)
   [![Stars](https://img.shields.io/github/stars/harrytmthy/safebox?style=flat-square)](https://github.com/harrytmthy/safebox/stargazers)
 
+- **[Stitch](https://github.com/harrytmthy/stitch)**  
+  _(coming soon)_
+
 ## 🎤 Talks
 
 I've shared insights and best practices on Android development at several notable events, including:
