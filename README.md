@@ -4,7 +4,7 @@ Android engineer obsessed with performance and security. I build stable apps & S
 
 **Creator of [**SafeBox**](https://github.com/harrytmthy/safebox)**, an encrypted key-value store for Android, designed to outperform `EncryptedSharedPreferences` with ~184× faster init, ~50× faster reads, and ~9× faster writes.
 
-## 📦 Featured Projects
+## Featured Projects
 
 - **[SafeBox](https://github.com/harrytmthy/safebox)**  
   A high-performance encrypted key-value store for Android.  
@@ -15,7 +15,7 @@ Android engineer obsessed with performance and security. I build stable apps & S
 - **[Stitch](https://github.com/harrytmthy/stitch)**  
   _(coming soon)_
 
-## 🎤 Talks
+## Talks
 
 I've shared insights and best practices on Android development at several notable events, including:
 
@@ -43,6 +43,6 @@ I've shared insights and best practices on Android development at several notabl
   <img src="assets/bangkit.png" alt="Bangkit" width="600"/>
 </details>
 
-## 🤝 Support
+## Support
 
 If my work helped you, please ⭐️ the repo or consider [sponsoring](https://github.com/sponsors/harrytmthy).
