@@ -1,4 +1,4 @@
-# Hi, I'm Harry Timothy 👋
+# Hi, I'm Harry Timothy!
 
 Android engineer obsessed with performance and security. I build stable apps & SDKs with efficient design and measurable gains.
 
