@@ -10,7 +10,7 @@ Android engineer obsessed with performance and security. I build stable apps & S
   A high-performance encrypted key-value store for Android.  
   [![Build](https://img.shields.io/github/actions/workflow/status/harrytmthy/safebox/ci.yml?branch=main&label=build&logo=githubactions&logoColor=white&style=flat-square)](https://github.com/harrytmthy/safebox/actions)
   [![Release](https://img.shields.io/github/v/release/harrytmthy/safebox?label=release&color=orange&style=flat-square)](https://github.com/harrytmthy/safebox/releases)
-  [![Stars](https://img.shields.io/github/stars/harrytmthy/safebox?style=flat-square)](https://github.com/harrytmthy/safebox/stargazers)
+  [![Stars](https://img.shields.io/github/stars/harrytmthy/safebox?label=stars&style=flat-square)](https://github.com/harrytmthy/safebox/stargazers)
 
 - **[Stitch](https://github.com/harrytmthy/stitch)**  
   _(coming soon)_
