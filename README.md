@@ -2,7 +2,7 @@
 
 Android engineer obsessed with performance and security. I build stable apps & SDKs with efficient design and measurable gains.
 
-**Creator of [**SafeBox**](https://github.com/harrytmthy/safebox)**, an encrypted key-value store for Android, designed to outperform `EncryptedSharedPreferences` with ~184× faster init, ~50× faster reads, and ~9× faster writes.
+**Creator of [**SafeBox**](https://github.com/harrytmthy/safebox)**, an encrypted key-value store for Android, designed to outperform `EncryptedSharedPreferences` with ~200× faster init, 70× faster reads, and ~9× faster writes.
 
 ## Featured Projects
 
