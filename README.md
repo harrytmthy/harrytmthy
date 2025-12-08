@@ -1,6 +1,6 @@
 # Hi, I'm Harry Timothy!
 
-I'm an Android engineer who is obsessed with performance improvement. I build apps & SDKs with efficient design and measurable gains.
+I'm an Android engineer who is obsessed with performance improvement. I build apps and SDKs with efficient design and measurable gains.
 
 **Creator of [**SafeBox**](https://github.com/harrytmthy/safebox)**, a secure and fast encrypted storage library for Android.
 
