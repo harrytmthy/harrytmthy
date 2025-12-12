@@ -2,7 +2,7 @@
 
 I'm an Android engineer who is obsessed with performance. In early 2025, I found my legacy works _too noisy_ and much closer to a typical CRUD engineer's repo, so I deleted them 😄
 
-Instead of showcasing apps that are difficult to measure, I decided to build high-performance SDKs with clear measurements/benchmarks, which happen to beat world-class tools.
+Instead of showcasing apps that are difficult to measure, I decided to build high-performance SDKs with clear measurements/benchmarks, which happen to beat some existing world-class libraries.
 
 ## Featured Projects
 
