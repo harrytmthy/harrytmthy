@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 I'm an Android engineer who is obsessed with performance. In early 2025, I found my legacy works _too noisy_ and much closer to a typical CRUD engineer's repo, so I deleted them 😄
 
