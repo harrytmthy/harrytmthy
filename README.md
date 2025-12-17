@@ -4,6 +4,8 @@ I'm an Android engineer who is obsessed with performance. In early 2025, I found
 
 Instead of showcasing apps that are difficult to measure, I decided to build SDKs that solve real-world issues with clear measurements and _top tier_ performance.
 
+Currently open to Android roles with immediate availability. Just ping me at [LinkedIn](https://www.linkedin.com/in/harrytmthy/), and I'll reply fast!
+
 ## Featured Projects
 
 - **[SafeBox](https://github.com/harrytmthy/safebox)**  
