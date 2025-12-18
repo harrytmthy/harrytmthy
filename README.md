@@ -2,7 +2,7 @@
 
 I'm an Android engineer who is obsessed with performance. In early 2025, I found my legacy works _too noisy_ and much closer to a typical CRUD engineer's repo, so I deleted them 😄
 
-Instead of showcasing apps that are difficult to measure, I decided to build SDKs that solve real-world issues with clear measurements and _top tier_ performance.
+Instead of showcasing apps that are difficult to measure, I decided to build SDKs that solve real-world issues with clear measurements and top tier performance.
 
 Currently open to Android roles with immediate availability. Just ping me at [LinkedIn](https://www.linkedin.com/in/harrytmthy/), and I'll reply fast!
 
