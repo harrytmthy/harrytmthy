@@ -4,7 +4,7 @@ I'm an Android engineer who is obsessed with performance. In early 2025, I found
 
 Instead of showcasing apps that are difficult to measure, I decided to build SDKs that solve real-world issues with clear measurements and top tier performance.
 
-Open to senior Android roles where system design and performance are first-class concerns.
+Open to senior Android roles where system design and performance are top priority.
 
 ## Featured Projects
 
