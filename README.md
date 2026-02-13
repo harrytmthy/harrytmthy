@@ -1,8 +1,8 @@
 ## Introduction
 
-I'm an Android engineer who is obsessed with performance. In early 2025, I found my legacy works _too noisy_ and much closer to a typical CRUD engineer's repo, so I deleted them 😄
+I'm an Android engineer obsessed with performance. In early 2025, I deleted my old projects after realizing they didn't fully reflect the degree of system-level engineering and competitiveness I wanted to showcase 😄
 
-Instead of showcasing apps that are difficult to measure, I decided to build SDKs that solve real-world issues with clear measurements and top tier performance.
+Rather than shipping another feature-driven app, I started building SDKs where performance & architectural trade-offs can be compared and reasoned about explicitly.
 
 Open to senior Android roles where system design and performance are top priorities.
 
