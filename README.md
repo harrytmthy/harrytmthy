@@ -14,8 +14,11 @@ Open to senior Android roles where system design and performance are top priorit
   [![Release](https://img.shields.io/github/v/release/harrytmthy/safebox?label=release&color=orange&style=flat-square)](https://github.com/harrytmthy/safebox/releases)
   [![Stars](https://img.shields.io/github/stars/harrytmthy/safebox?label=stars&style=flat-square)](https://github.com/harrytmthy/safebox/stargazers)
 
-- **[Stitch](https://github.com/harrytmthy/stitch)**  
-  _(coming soon)_
+- **[Stitch](https://github.com/harrytmthy/stitch)**   
+  A Kotlin Multiplatform dependency injection library with top-tier performance and runtime flexibility.  
+  [![Build](https://img.shields.io/github/actions/workflow/status/harrytmthy/stitch/ci.yml?branch=main&label=build&logo=githubactions&logoColor=white&style=flat-square)](https://github.com/harrytmthy/stitch/actions)
+  [![Release](https://img.shields.io/github/v/release/harrytmthy/stitch?label=release&color=orange&style=flat-square)](https://github.com/harrytmthy/stitch/releases)
+  [![Stars](https://img.shields.io/github/stars/harrytmthy/stitch?label=stars&style=flat-square)](https://github.com/harrytmthy/stitch/stargazers)
 
 ## Talks
 
