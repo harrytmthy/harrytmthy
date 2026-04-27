@@ -11,8 +11,7 @@ Open to senior Android roles where system design and performance are top priorit
 - **[SafeBox](https://github.com/harrytmthy/safebox)**  
   A high-performance encrypted key-value store for Android.  
   [![Build](https://img.shields.io/github/actions/workflow/status/harrytmthy/safebox/ci.yml?branch=main&label=build&logo=githubactions&logoColor=white&style=flat-square)](https://github.com/harrytmthy/safebox/actions)
-  [![Release](https://img.shields.io/github/v/release/harrytmthy/safebox?label=release&color=orange&style=flat-square)](https://github.com/harrytmthy/safebox/releases)
-  [![Stars](https://img.shields.io/github/stars/harrytmthy/safebox?label=stars&style=flat-square)](https://github.com/harrytmthy/safebox/stargazers)
+  [![Release](https://img.shields.io/github/v/release/harrytmthy/safebox?label=release&color=orange&style=flat-square)]
 
 - **[Stitch](https://github.com/harrytmthy/stitch)**   
   A Kotlin Multiplatform dependency injection library with top-tier performance and runtime flexibility.  
