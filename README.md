@@ -4,6 +4,8 @@ I'm an Android engineer obsessed with performance. In early 2025, I deleted my o
 
 Rather than shipping another feature-driven app, I started building SDKs where performance & architectural trade-offs can be compared and reasoned about explicitly.
 
+Open to senior Android roles and focused consulting work where architecture, reliability, security, and thoughtful engineering decisions are treated as part of delivery.
+
 ## Featured Projects
 
 - **[SafeBox](https://github.com/harrytmthy/safebox)**  
