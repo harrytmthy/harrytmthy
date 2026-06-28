@@ -1,6 +1,6 @@
 ## Introduction
 
-I'm an Android engineer who is interested in building things AI can't.
+I'm an Android engineer interested in optimizing inefficiencies and building things AI can't.
 
 Rather than shipping shallow feature work, I started building SDKs where performance and architectural tradeoffs can be compared and reasoned about explicitly.
 
