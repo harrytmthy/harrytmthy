@@ -1,10 +1,10 @@
 ## Introduction
 
-I'm an Android engineer obsessed with performance. In early 2025, I deleted my old projects after realizing they didn't fully reflect the degree of system-level engineering and competitiveness I wanted to showcase 😄
+I'm an Android engineer who is interested in building things AI can't.
 
-Rather than shipping another feature-driven app, I started building SDKs where performance & architectural trade-offs can be compared and reasoned about explicitly.
+Rather than shipping shallow feature work, I started building SDKs where performance and architectural tradeoffs can be compared and reasoned about explicitly.
 
-Open to senior Android roles and focused consulting work where architecture, reliability, security, and thoughtful engineering decisions are treated as part of delivery.
+Open to senior Android roles and focused consulting work.
 
 ## Featured Projects
 
