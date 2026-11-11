@@ -1,8 +1,8 @@
 ## Introduction
 
-I'm an Android engineer interested in optimizing inefficiencies and building things AI can't.
+A thoughtful, fast builder who creates high-performance products that scale. I enjoy catching AI mistakes and challenging its assumptions. Not a typical engineer 😄
 
-Rather than shipping shallow feature work, I started building SDKs where performance and architectural tradeoffs can be compared and reasoned about explicitly.
+I recently built a [cat maze demo entirely with Jetpack Compose](https://lnkd.in/p/gjzfd_U8). Google's official Android Developers account commented on the post. Even my avatar was drawn with the same Canvas code 😂
 
 Open to senior Android roles and focused consulting work.
 
